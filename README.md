@@ -3,16 +3,16 @@
 A modern and fully responsive **Personal Portfolio Website** built using **HTML5, CSS3, Bootstrap, and JavaScript**. This project showcases my skills, projects, education, and contact information through a clean, professional, and interactive user interface designed to provide an engaging user experience across all devices.
 
 <p align="center">
-  <img src="images/preview.png" alt="Portfolio Website Preview" width="100%">
+  <img src="preview.png" alt="Portfolio Website Preview" width="100%">
 </p>
 
 ---
 
 ## 🚀 Live Demo
 
-🌐 **Live Website:** https://your-portfolio-link.vercel.app/
+🌐 **Live Website:** https://kumariritu21.github.io/Personal_Portfolio/
 
-💻 **GitHub Repository:** https://github.com/yourusername/portfolio
+💻 **GitHub Repository:** https://github.com/KumariRitu21/Personal_Portfolio
 
 ---
 
