@@ -3,7 +3,7 @@
 A modern and fully responsive **Personal Portfolio Website** built using **HTML5, CSS3, Bootstrap, and JavaScript**. This project showcases my skills, projects, education, and contact information through a clean, professional, and interactive user interface designed to provide an engaging user experience across all devices.
 
 <p align="center">
-  <img src="preview.png" alt="Portfolio Website Preview" width="100%">
+  <img src="portfolio.png" alt="Portfolio Website Preview" width="100%">
 </p>
 
 ---
@@ -131,7 +131,7 @@ This project helped strengthen my understanding of:
 Frontend Developer | Engineering Student
 
 - 🔗 GitHub: https://github.com/KumariRitu21
-- 💼 LinkedIn: https://www.linkedin.com/in/kumari-ritu-8389983b2?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+- 💼 LinkedIn: www.linkedin.com/in/kumari-ritu-8389983b2
 
 ---
 
