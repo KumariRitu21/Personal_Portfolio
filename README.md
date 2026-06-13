@@ -10,7 +10,7 @@ A modern and fully responsive **Personal Portfolio Website** built using **HTML5
 
 ## 🚀 Live Demo
 
-🌐 **Live Website:** https://kumariritu21.github.io/Personal_Portfolio/
+🌐 **Live Website:** https://personal-portfolio-one-sable-78.vercel.app/
 
 💻 **GitHub Repository:** https://github.com/KumariRitu21/Personal_Portfolio
 
