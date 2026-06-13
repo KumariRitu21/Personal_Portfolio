@@ -1,0 +1,148 @@
+/* ===========================
+   Laptop (1200px and below)
+=========================== */
+
+@media (max-width:1200px){
+
+    .hero h1{
+        font-size:65px;
+    }
+
+    .profile-image{
+        max-width:350px;
+    }
+
+}
+
+/* ===========================
+   Tablet (992px and below)
+=========================== */
+
+@media (max-width:992px){
+
+    .navbar-nav{
+        text-align:center;
+        padding-top:20px;
+    }
+
+    .nav-link{
+        margin:10px 0;
+    }
+
+    .hero{
+        padding:120px 0 80px;
+        text-align:center;
+    }
+
+    .hero h1{
+        font-size:55px;
+    }
+
+    .hero h2{
+        font-size:26px;
+    }
+
+    .hero-text{
+        max-width:100%;
+        margin:auto;
+    }
+
+    .profile-image{
+        max-width:320px;
+        margin:50px auto 0;
+    }
+
+    .section-title{
+        font-size:36px;
+    }
+
+}
+
+/* ===========================
+   Mobile (768px and below)
+=========================== */
+
+@media (max-width:768px){
+
+    .hero{
+        padding:100px 0 60px;
+    }
+
+    .hero h1{
+        font-size:42px;
+    }
+
+    .hero h2{
+        font-size:22px;
+    }
+
+    .hero-text{
+        font-size:16px;
+    }
+
+    .profile-image{
+        max-width:260px;
+    }
+
+    #about,
+    #skills,
+    #projects,
+    .contact-section{
+
+        padding:70px 0;
+
+    }
+
+    .section-title{
+        font-size:30px;
+    }
+
+    .contact-card{
+        padding:25px;
+    }
+
+    footer{
+        text-align:center;
+    }
+
+    .footer-link{
+        margin:10px 6px;
+    }
+
+}
+
+/* ===========================
+   Small Mobile (576px and below)
+=========================== */
+
+@media (max-width:576px){
+
+    .hero h1{
+        font-size:36px;
+    }
+
+    .hero h2{
+        font-size:20px;
+    }
+
+    .btn{
+
+        width:100%;
+
+        margin-bottom:12px;
+
+    }
+
+    .profile-image{
+
+        max-width:220px;
+
+    }
+
+    .section-title{
+
+        font-size:28px;
+
+    }
+
+}
